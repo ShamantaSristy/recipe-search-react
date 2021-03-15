@@ -1,1 +1,1 @@
-<This site will help you search for recipes>
+This site will help you search for recipes
